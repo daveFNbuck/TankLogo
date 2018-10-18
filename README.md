@@ -60,17 +60,17 @@ In your code, you can not modify the opponent's attributes, such as resetting th
 To do some contributions, you need to install NetLogo firstly then clone your fork, double click the `TankLogo.nlogo` and run!
 
 ## FAQ
-Why choose NetLogo as programming language? 
-> Because NetLogo is quick easy and there are less people know how to use it than other languages, so if you want to get start, everybody is equal.
+Why choose NetLogo as a programming language? 
+> Because NetLogo is quick easy and fewer people know how to use it than other languages. So everybody is equal at the start.
 
-How can I get start ?
-> Two steps, the first is install NetLogo. The second one is clone this repo and double click the .nlogo file and improve the tank.
+How do I start ?
+> Two steps, the first is to install NetLogo. The second one is to clone this repo and double click the .nlogo file and improve the tank.
 
-How can I get if I win your tank ?
-> The best tank will update according to your solution, and your Github avatar and name will display until somebody beat yours.
+What do I get if I beat your tank ?
+> The best tank will be updated according to your solution, and your Github avatar and name will display until somebody beats yours.
 
-How to submit my solution ?
-> fork this repo and improve your code, test if it can really win my tank, submit a pull request, done!
+How do I submit my solution ?
+> Fork this repo and improve your code, test if it can really beat my tank, submit a pull request, done!
 
 <!-- ## Current Winner -->
 <!--
